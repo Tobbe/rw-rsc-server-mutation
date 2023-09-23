@@ -31,3 +31,12 @@ This app shows mutation of server state
    mixed with the server-side functionality
 6. Now click "Increment server counter by X" again. Notice how we can use
    client side state to influence what happens on the server.
+
+## List of Redwood RSC demos
+
+ 1. https://github.com/Tobbe/rw-rsc-client-counter
+ 2. https://github.com/Tobbe/rw-rsc-suspense
+ 3. https://github.com/Tobbe/rw-rsc-server-mutation
+ 4. https://github.com/Tobbe/rw-rsc-rsf-return-value
+ 5. https://github.com/Tobbe/rw-rsc-form-server-action
+ 6. https://github.com/Tobbe/rw-rsc-ai-jsx
